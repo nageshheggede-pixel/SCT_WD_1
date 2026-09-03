@@ -1,5 +1,7 @@
 NEXORA — Responsive Landing Page
+
 A modern and responsive AI-themed landing page developed as part of the SkillCraft Technology Web Development Internship — Task 1.
+
 
 🚀 Project Overview
 NEXORA is a modern AI decision-intelligence themed landing page designed to demonstrate responsive web design and interactive navigation.

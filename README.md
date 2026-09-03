@@ -4,6 +4,7 @@ A modern and responsive AI-themed landing page developed as part of the SkillCra
 
 
 🚀 Project Overview
+
 NEXORA is a modern AI decision-intelligence themed landing page designed to demonstrate responsive web design and interactive navigation.
 
 The website features a fixed navigation menu that dynamically changes its appearance when the user scrolls and provides interactive hover effects on navigation items.
